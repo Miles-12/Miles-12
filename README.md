@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Miles, a beginner
-- 👀 I’m interested in VR,AR
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Miles
 - 📫 To contact with me, please e-mail me at 1024730708@qq.com
 
 <!---
